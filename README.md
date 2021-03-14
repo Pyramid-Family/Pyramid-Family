@@ -1,5 +1,4 @@
 # Pyramid Family: Generic Frameworks for Accurate and Fast Flow Size Measurement
-============
 
 
 ## Introduction
@@ -7,18 +6,15 @@ Sketches, as a kind of probabilistic data structures, have been considered as th
 
 
 ## Repository Structure
---------
 *  `Classic/`: the source code of S-Pyramid and Mini-Pyramid applying to classic sketches (CM, CU, Count, and Asketch)
 *  `SBF/`: the source code of Mini-Pyramid applying to SBF
 *  `On-Off/`: the source code of Mini-Pyramid applying to On-Off
 
 
 ## Requirements
--------
 - cmake
 - g++
 
 
 ## Publication
---------
 [(VLDB17) Pyramid Sketch: a Sketch Framework for Frequency Estimation of Data Streams](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)
