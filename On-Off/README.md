@@ -10,5 +10,5 @@ $ ./bench your-dataset
 
 ## Reference
 
-[On-Off-Sketch](https://github.com/Sketch-Data-Stream/On-Off-Sketch)(https://github.com/Sketch-Data-Stream/On-Off-Sketch)
+[On-Off-Sketch](https://github.com/Sketch-Data-Stream/On-Off-Sketch)
 
