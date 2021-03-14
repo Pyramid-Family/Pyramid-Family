@@ -10,4 +10,4 @@ $ ./bench your-dataset
 
 ## Reference
 
-On-Off-Sketch: https://github.com/Sketch-Data-Stream/On-Off-Sketch
+Original source code of the On-Off sketch: https://github.com/Sketch-Data-Stream/On-Off-Sketch
