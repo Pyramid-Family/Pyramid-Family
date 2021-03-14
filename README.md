@@ -17,11 +17,8 @@ Sketches, as a kind of probabilistic data structures, have been considered as th
 
 
 ## Datasets
-
 The dataset files should be binary files containing only flow IDs.
-
 Each flow ID is a fixed-length string, whose length should be equal to KEY_LENGTH defined in the code.
-
 Flow ID is commonly defined as srcIP, <srcIP, dstIP>, or 5-tuple (srcIP, srcPort, dstIP, dstPort, protocol).
 
 
