@@ -2,6 +2,8 @@
 
 Before running, modify the path in the main function (Line 591 in main.cpp, Line 331 in delete.cpp) to your dataset file.
 
+After that, compile and run the program by the following commands.
+
 ```bash
 $ cmake .
 $ make
