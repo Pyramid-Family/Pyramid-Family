@@ -1,6 +1,6 @@
 ## Datasets Information
 
-| dataset | KEY_LENGTH | flow number | packets number | maximum flow size |
+| Dataset | KEY_LENGTH | flow number | packets number | maximum flow size |
 | :---- | :----: | :----: | :----: | :----: |
 | caida.dat | 13 | 93,703 | 1,000,000 | 49,532 |
 | imcdc.dat | 4 | 182,302 | 1,000,000 | 232,745 |
