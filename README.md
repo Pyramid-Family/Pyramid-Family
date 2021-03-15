@@ -24,6 +24,6 @@ We provide 3 small datasets, which are extracted from the real datasets we used 
 
 
 ## Publication
-[(VLDB17) Pyramid Sketch: a Sketch Framework for Frequency Estimation of Data Streams](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)
+[(VLDB17) Pyramid Sketch: a Sketch Framework for Frequency Estimation of Data Streams](https://dl.acm.org/doi/abs/10.14778/3137628.3137652).
 
-Github: https://github.com/zhouyangpkuer/Pyramid_Sketch_Framework
+Github: https://github.com/zhouyangpkuer/Pyramid_Sketch_Framework.
