@@ -1,6 +1,6 @@
 ## How to run
 
-Compile and run the program by the following commands.
+Compile and run the program with the following commands.
 
 ```bash
 $ cmake .
