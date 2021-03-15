@@ -9,6 +9,7 @@ Sketches, as a kind of probabilistic data structures, have been considered as th
 *  `Classic/`: the source code of S-Pyramid and Mini-Pyramid applying to classic sketches (CM, CU, Count, and Asketch)
 *  `SBF/`: the source code of Mini-Pyramid applying to SBF
 *  `On-Off/`: the source code of Mini-Pyramid applying to On-Off
+*  `Datasets/`: the small datasets extracted from the real datasets we used in the experiments.
 
 
 ## Requirements
@@ -17,10 +18,12 @@ Sketches, as a kind of probabilistic data structures, have been considered as th
 
 
 ## Datasets
-The dataset files should be binary files containing only flow IDs.
-Each flow ID is a fixed-length string, whose length should be equal to KEY_LENGTH defined in the code.
-Flow ID is commonly defined as srcIP, <srcIP, dstIP>, or 5-tuple (srcIP, srcPort, dstIP, dstPort, protocol).
+The dataset files should be binary files containing only flow IDs. Each flow ID is a fixed-length string, whose length should be equal to KEY_LENGTH defined in the code. Flow ID is commonly defined as srcIP, <srcIP, dstIP>, or 5-tuple (srcIP, srcPort, dstIP, dstPort, protocol).
+
+We provide 3 small datasets, which are extracted from the real datasets we used in the experiments. For more details about the datasets, please refer to the paper.
 
 
 ## Publication
 [(VLDB17) Pyramid Sketch: a Sketch Framework for Frequency Estimation of Data Streams](https://dl.acm.org/doi/abs/10.14778/3137628.3137652)
+
+Github: https://github.com/zhouyangpkuer/Pyramid_Sketch_Framework
